@@ -1,0 +1,14 @@
+/Users/bora/c#/shuffle/shuffle/obj/Debug/net8.0/shuffle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bora/c#/shuffle/shuffle/obj/Debug/net8.0/shuffle.AssemblyInfoInputs.cache
+/Users/bora/c#/shuffle/shuffle/obj/Debug/net8.0/shuffle.AssemblyInfo.cs
+/Users/bora/c#/shuffle/shuffle/obj/Debug/net8.0/shuffle.csproj.CoreCompileInputs.cache
+/Users/bora/c#/shuffle/shuffle/bin/Debug/net8.0/shuffle
+/Users/bora/c#/shuffle/shuffle/bin/Debug/net8.0/shuffle.deps.json
+/Users/bora/c#/shuffle/shuffle/bin/Debug/net8.0/shuffle.runtimeconfig.json
+/Users/bora/c#/shuffle/shuffle/bin/Debug/net8.0/shuffle.dll
+/Users/bora/c#/shuffle/shuffle/bin/Debug/net8.0/shuffle.pdb
+/Users/bora/c#/shuffle/shuffle/obj/Debug/net8.0/shuffle.dll
+/Users/bora/c#/shuffle/shuffle/obj/Debug/net8.0/refint/shuffle.dll
+/Users/bora/c#/shuffle/shuffle/obj/Debug/net8.0/shuffle.pdb
+/Users/bora/c#/shuffle/shuffle/obj/Debug/net8.0/shuffle.genruntimeconfig.cache
+/Users/bora/c#/shuffle/shuffle/obj/Debug/net8.0/ref/shuffle.dll
